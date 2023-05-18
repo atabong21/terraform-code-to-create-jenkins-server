@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "leke21-app"
+    bucket = "lekeabc-app"
     region = "us-east-1"
     key = "jenkins-server/terraform.tfstate"
   }
